@@ -1,0 +1,5 @@
+St. Petersburg;Moskow;10;20
+Moskow;Habarovsk;40;35
+St. Petersburg;Habarovsk;14;N/A
+Vladivostok;Habarovsk;13;8
+Vladivostok;St. Petersburg;N/A;20

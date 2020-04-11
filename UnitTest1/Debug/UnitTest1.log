@@ -1,0 +1,6 @@
+﻿  UnitTest1.cpp
+D:\Aistr\4th term\Graphs\Graphs\Graphs.cpp(212,20): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Graphs\Graphs\Graphs.cpp(214,21): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Graphs\Graphs\Graphs.cpp(20): warning C4715:  find_city: значение возвращается не при всех путях выполнения
+     ╤ючфрхЄё  сшсышюЄхър D:\Aistr\4th term\Graphs\Debug\UnitTest1.lib ш юс·хъЄ D:\Aistr\4th term\Graphs\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\Aistr\4th term\Graphs\Debug\UnitTest1.dll

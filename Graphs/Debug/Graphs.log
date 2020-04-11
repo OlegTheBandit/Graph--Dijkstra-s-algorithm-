@@ -1,0 +1,5 @@
+﻿  Graphs.cpp
+D:\Aistr\4th term\Graphs\Graphs\Graphs.cpp(212,20): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Graphs\Graphs\Graphs.cpp(214,21): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Graphs\Graphs\Graphs.cpp(20): warning C4715:  find_city: значение возвращается не при всех путях выполнения
+  Graphs.vcxproj -> D:\Aistr\4th term\Graphs\Debug\Graphs.exe
